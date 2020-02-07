@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ActivityTracker.MainPage"
+             Title="Activity Tracker">
+
+    <StackLayout Padding="20,20,20,20">
+        <Entry x:Name="ActivName" Placeholder="Enter Activity Name" HorizontalOptions="Center"/>
+        <Entry x:Name="ActivDesc" Placeholder="Enter Activity Description" HorizontalOptions="Center"/>
+        <Button Text="Add New Activity" HorizontalOptions="Center" Clicked="OnNewActivityClicked"/>
+        <Button Text="Show All Activities" HorizontalOptions="Center" Clicked="OnGetAllActivitiesClicked"/>
+        <Button Text="Set activity Completed" HorizontalOptions="Center" Clicked="OnSetCompleted"/>
+        <Label x:Name="StatusMessage"/>
+
+        <ListView x:Name="ActivityList">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell Height="30">
+                        <StackLayout Padding="5">
+                            <StackLayout Orientation="Horizontal">
+                                <Label x:Name="IdLabel" Text="{Binding ActivityID}" />
+                                <Label Text="{Binding ActivityName}"/>
+                                <Label Text="{Binding ActivityStatus}"/>
+                                <Label Text="{Binding ActivityDesc}"/>
+                                
+                                
+                            </StackLayout>
+                            
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

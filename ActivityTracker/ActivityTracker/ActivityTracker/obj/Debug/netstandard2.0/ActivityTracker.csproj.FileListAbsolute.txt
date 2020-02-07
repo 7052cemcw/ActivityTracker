@@ -1,0 +1,30 @@
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\bin\Debug\netstandard2.0\ActivityTracker.deps.json
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\bin\Debug\netstandard2.0\ActivityTracker.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\bin\Debug\netstandard2.0\ref\ActivityTracker.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\bin\Debug\netstandard2.0\ActivityTracker.pdb
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ActivityTracker.csprojAssemblyReference.cache
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ActivityTracker.AssemblyInfoInputs.cache
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ActivityTracker.AssemblyInfo.cs
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ActivityTracker.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ref\ActivityTracker.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ActivityTracker.pdb
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\LogonPage.xaml.g.cs
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\Pages\SetCompletedPage.xaml.g.cs
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\bin\Debug\netstandard2.0\ActivityTracker.deps.json
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\bin\Debug\netstandard2.0\ActivityTracker.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\bin\Debug\netstandard2.0\ref\ActivityTracker.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\bin\Debug\netstandard2.0\ActivityTracker.pdb
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ActivityTracker.csprojAssemblyReference.cache
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\LogonPage.xaml.g.cs
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\Pages\SetCompletedPage.xaml.g.cs
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ActivityTracker.AssemblyInfoInputs.cache
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ActivityTracker.AssemblyInfo.cs
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ActivityTracker.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ref\ActivityTracker.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker\obj\Debug\netstandard2.0\ActivityTracker.pdb

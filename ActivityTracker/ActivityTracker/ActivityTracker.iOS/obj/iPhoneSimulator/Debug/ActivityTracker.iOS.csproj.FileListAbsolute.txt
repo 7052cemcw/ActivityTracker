@@ -1,0 +1,126 @@
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ActivityTracker.iOS.exe
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ActivityTracker.iOS.pdb
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ActivityTracker.dll
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ActivityTracker.pdb
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\ActivityTracker.iOS.csprojAssemblyReference.cache
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\ActivityTracker.iOS.csproj.CopyComplete
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\ActivityTracker.iOS.exe
+C:\Mobile Platforms-App Development\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\ActivityTracker.iOS.pdb
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ActivityTracker.iOS.exe
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ActivityTracker.iOS.pdb
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\SQLite-net.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.core.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\pt-br\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ActivityTracker.dll
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\bin\iPhoneSimulator\Debug\ActivityTracker.pdb
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\ActivityTracker.iOS.csprojAssemblyReference.cache
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\XamlC.stamp
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\ActivityTracker.iOS.csproj.CopyComplete
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\ActivityTracker.iOS.exe
+C:\Users\MOKA HARESH\Documents\ActivityTracker\ActivityTracker\ActivityTracker.iOS\obj\iPhoneSimulator\Debug\ActivityTracker.iOS.pdb
