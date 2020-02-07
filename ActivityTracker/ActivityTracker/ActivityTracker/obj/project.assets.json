@@ -703,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alok\\Desktop\\Code\\Assignment\\Alok\\ActivityTracker-20200206T134900Z-001\\ActivityTracker\\ActivityTracker\\ActivityTracker\\ActivityTracker.csproj",
+      "projectUniqueName": "C:\\Users\\Alok\\Documents\\GitHub\\ActivityTracker\\ActivityTracker\\ActivityTracker\\ActivityTracker\\ActivityTracker.csproj",
       "projectName": "ActivityTracker",
-      "projectPath": "C:\\Users\\Alok\\Desktop\\Code\\Assignment\\Alok\\ActivityTracker-20200206T134900Z-001\\ActivityTracker\\ActivityTracker\\ActivityTracker\\ActivityTracker.csproj",
+      "projectPath": "C:\\Users\\Alok\\Documents\\GitHub\\ActivityTracker\\ActivityTracker\\ActivityTracker\\ActivityTracker\\ActivityTracker.csproj",
       "packagesPath": "C:\\Users\\Alok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alok\\Desktop\\Code\\Assignment\\Alok\\ActivityTracker-20200206T134900Z-001\\ActivityTracker\\ActivityTracker\\ActivityTracker\\obj\\",
+      "outputPath": "C:\\Users\\Alok\\Documents\\GitHub\\ActivityTracker\\ActivityTracker\\ActivityTracker\\ActivityTracker\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
